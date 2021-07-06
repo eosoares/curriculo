@@ -1,8 +1,12 @@
 ## Eduardo de Oliveira e Soares
 
+<img align="left" width="100" height="100" src="/img/EduSoares.jpeg">  
+
 **Brasileiro, 44 anos, casado.  
 (61) 98486.7877  
 eosoares77@gmail.com**  
+<br>
+<br>
 
 #### Interesses  
 
@@ -101,7 +105,7 @@ Atualização e gestão dos modelos físicos (dicionário de dados) de aplicaç�
 dados (ferramenta case) avaliados:  
 Atualização de documentos de procedimentos e processos da área de Administração de
 Dados.  
-**(Anexo 01)**  
+[(Anexo 01)](#declaracao)
 
 **• (Ministério do Turismo)**  
 Análise, implantação e manutenção do Software Tivoli/IBM/Maximo v7.2  
@@ -153,3 +157,8 @@ Desenvolvimento de relatórios (Crystal Reports)
 
 Preferência pela região de Brasília/DF, ou cidades em um raio de até 150 km. Aceita considerar
 propostas de outras regiões. Aceita viajar pela empresa.  
+  
+  
+<a name="declaracao">**Anexo 01**</a>  
+![Declaração](/img/EduardoSoaresDeclaracao-1.jpg "Declaração SONDA/CTIS")
+
